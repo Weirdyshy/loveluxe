@@ -1,0 +1,155 @@
+
+.navbar .navbar-header,
+.navbar-collapse {
+    float:none;
+    display:inline-block;
+    vertical-align: top;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.navbar-default
+{
+    margin-top:-4px;
+    border-bottom: 1px solid #a6a7a8;
+}
+
+#archive-products-div .products
+{
+    /* padding-left:2%!important;
+    padding-right:4%!important; */
+}
+
+#archive-products-div .products li img
+{
+    /* padding-top: 20px !important;
+    padding-bottom: 20px !important; */
+    /* border: 1px #d3d3d3 solid;
+    border-bottom-style: none!important;
+    background-color: white;
+    border-width: thin;
+    margin-bottom:0px!important;
+    max-width: 215px; */
+}
+
+#product-content-container
+{
+	/* border: 1px #d3d3d3 solid;
+     border-top-style: none;
+     background-color: #e7d9d5;
+     height: 70px; */
+}
+
+
+
+
+#archive-products-div .products li .star-rating
+{
+    display:none!important;
+}
+
+#archive-products-div .products li h2
+{
+    padding-top:10px;
+    color:black;
+}
+
+#archive-products-div .products li .price
+{
+    padding-bottom:10px;
+    color:black;
+}
+
+#archive-product-header #container #content nav
+{
+    position: absolute !important;
+    width: 100%;
+    padding: 10px;
+        background-color: rgba(238,228,226,0.7);
+}
+
+#archive-products-div span
+{
+    /* color:#9d9d9d; */
+    /* font-size:16px !important; */
+}
+
+/*sidebar*/
+
+#archive-sidebar-col
+{
+    padding-top: 50px;
+    padding-left: 4%;
+}
+
+
+#archive-sidebar-col ul
+{
+    margin: 0px;
+}
+
+#archive-sidebar-col h2
+{
+    font-size: 16px;
+    color: #3d3d3d;
+    font-weight: 400;
+}
+
+#archive-sidebar-col li.cat-parent a
+{
+    color: #3d3d3d;
+    text-decoration: none;
+}
+
+#archive-sidebar-col li.cat-parent ul.children a
+{
+    color: #3d3d3d;
+    text-decoration: none;
+}
+
+.yith-wcan-list li a
+{
+    color: #3d3d3d;
+    text-decoration: none;
+}
+
+
+@media only screen and (max-width: 768px){
+    
+    #SlideCarousel .featured-product-price
+    {
+        margin-bottom:20px !important;
+    }
+}
+
+@media only screen and (max-width: 991px){
+    
+
+    .woocommerce img, .woocommerce-page img
+    {
+        /*display: none!important;*/
+	
+    }
+    .main-navigation ul ul
+    {
+	float:none!important;
+    }
+
+   .sub-menu
+    {
+	background-color:transparent;
+     }
+
+     #archive-products-div {
+        margin-left: 12px !important;
+        margin-right: 12px !important;
+    }
+
+
+
+
+}
+
+#archive-sidebar-col {
+    font-size: 14px;
+}

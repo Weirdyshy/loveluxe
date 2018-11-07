@@ -1,0 +1,38 @@
+2018-10-24T02:42:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T02:44:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T03:45:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T08:01:42+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T08:05:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T08:06:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T08:06:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T08:07:16+00:00 CRITICAL Maximum execution time of 30 seconds exceeded
+
+2018-10-24T09:19:27+00:00 CRITICAL syntax error, unexpected 'endwhile' (T_ENDWHILE) in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 56
+
+2018-10-24T09:48:13+00:00 CRITICAL Object of class WP_Post could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 49
+
+2018-10-24T09:48:27+00:00 CRITICAL Object of class WP_Post could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 49
+
+2018-10-24T09:49:16+00:00 CRITICAL Object of class WP_Post could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 49
+
+2018-10-24T09:50:07+00:00 CRITICAL Object of class WP_Post could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 49
+
+2018-10-24T10:18:11+00:00 CRITICAL syntax error, unexpected 'endforeach' (T_ENDFOREACH) in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 80
+
+2018-10-24T10:20:24+00:00 CRITICAL Call to a member function get_id() on a non-object in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 35
+
+2018-10-24T10:20:50+00:00 CRITICAL Call to a member function get_id() on a non-object in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 35
+
+2018-10-24T10:23:22+00:00 CRITICAL Call to a member function get_id() on a non-object in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 49
+
+2018-10-24T10:48:03+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 42
+
+2018-10-24T10:48:23+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 88
+

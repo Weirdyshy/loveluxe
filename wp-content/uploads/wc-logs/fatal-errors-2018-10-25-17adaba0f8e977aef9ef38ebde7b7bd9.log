@@ -1,0 +1,16 @@
+2018-10-25T03:23:20+00:00 CRITICAL Object of class WP_Post could not be converted to string in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 51
+
+2018-10-25T03:25:31+00:00 CRITICAL Call to a member function get_id() on a non-object in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\woocommerce\single-product\related.php on line 44
+
+2018-10-25T09:12:59+00:00 CRITICAL require(): Failed opening required 'C:\xampp\htdocs\wordpress/wp-content/themes/storefront/inc/custom-header.php' (include_path='.;C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\functions.php on line 197
+
+2018-10-25T09:19:12+00:00 CRITICAL syntax error, unexpected '$item_count' (T_VARIABLE), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\header.php on line 128
+
+2018-10-25T09:20:20+00:00 CRITICAL syntax error, unexpected '.' in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\header.php on line 128
+
+2018-10-25T09:22:54+00:00 CRITICAL syntax error, unexpected '"ITEM(S)"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\header.php on line 128
+
+2018-10-25T09:23:44+00:00 CRITICAL syntax error, unexpected ''ITEM(S)'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\header.php on line 128
+
+2018-10-25T09:26:48+00:00 CRITICAL syntax error, unexpected '"  <b>&nbsp;ITEM(S)</b>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in C:\xampp\htdocs\wordpress\wp-content\themes\loveluxe\header.php on line 128
+

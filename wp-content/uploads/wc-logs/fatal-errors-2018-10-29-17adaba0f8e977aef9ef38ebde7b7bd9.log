@@ -1,0 +1,36 @@
+2018-10-29T02:58:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\base\document.php on line 15
+
+2018-10-29T03:01:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\elements\section.php on line 4
+
+2018-10-29T03:01:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\history\views\history-panel-template.php on line 2
+
+2018-10-29T04:39:45+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\image.php on line 4
+
+2018-10-29T07:24:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\abstracts\abstract-wc-gateway-ppec-paypal-request-handler.php on line 3
+
+2018-10-29T07:24:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\base\skin-base.php on line 4
+
+2018-10-29T07:25:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\core\files\manager.php on line 9
+
+2018-10-29T07:38:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\history\views\revisions-panel-template.php on line 2
+
+2018-10-29T07:39:19+00:00 CRITICAL Call to a member function load_reports() on a non-object in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\tracker.php on line 335
+
+2018-10-29T07:42:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 204
+
+2018-10-29T07:43:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\controls\section.php on line 4
+
+2018-10-29T07:43:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\widgets\class-wp-widget-media-gallery.php on line 17
+
+2018-10-29T07:44:32+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-10-29T07:45:06+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\controls\base-multiple.php on line 4
+
+2018-10-29T07:45:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\kses.php on line 1249
+
+2018-10-29T07:45:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-gateway-paypal-express-checkout\includes\class-wc-gateway-ppec-with-spb-addons.php on line 3
+
+2018-10-29T07:45:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 1924
+
+2018-10-29T07:46:25+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\elementor\includes\widgets\image-carousel.php on line 4
+
